@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Jesús Cast!
 
-<!--
-**jesus-imanol/jesus-imanol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate developer with a keen interest in building efficient and scalable web applications. I enjoy working with a range of technologies that allow me to bring innovative solutions to life. 
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development:
+- **Frontend Frameworks/Libraries:** React, Angular
+- **Core Web Technologies:** HTML, CSS, JavaScript
+
+### 🚀 Programming Languages:
+- Rust
+- TypeScript
+- JavaScript
+- Java
+
+### 🗄 Database Management Systems:
+- MySQL
+- PostgreSQL
+
+### 📚 Version Control & Tools:
+- Git & GitHub
+
+### 🌍 Languages:
+- **English:** Basic proficiency
+
+## 📈 Always Learning
+I'm continually learning new technologies and looking for ways to expand my knowledge and skills. Currently, I'm focusing on improving my TypeScript and Rust development, along with honing my database management skills.
+
+Feel free to connect with me, collaborate on projects, or simply explore my repositories!
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
