@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate developer dedicated to building efficient and scalable web applications. I love coding and learning new technologies that help me grow as a professional. Below is a quick overview of my skills and the technologies I use!
+  I'm a passionate developer with experience building web applications and working with APIs. I love exploring new technologies and pushing my skills further each day.
 </p>
 
 ---
@@ -27,10 +27,41 @@
 
 ---
 
+<h2 align="center">📊 Skill Proficiency</h2>
+
+<table align="center">
+  <tr>
+    <td><strong>React</strong></td>
+    <td><progress value="75" max="100"></progress> 75%</td>
+  </tr>
+  <tr>
+    <td><strong>Angular</strong></td>
+    <td><progress value="70" max="100"></progress> 70%</td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td><progress value="80" max="100"></progress> 80%</td>
+  </tr>
+  <tr>
+    <td><strong>TypeScript</strong></td>
+    <td><progress value="70" max="100"></progress> 70%</td>
+  </tr>
+  <tr>
+    <td><strong>Rust</strong></td>
+    <td><progress value="60" max="100"></progress> 60%</td>
+  </tr>
+  <tr>
+    <td><strong>Java</strong></td>
+    <td><progress value="65" max="100"></progress> 65%</td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">📚 What I’m Learning</h2>
 
 <p align="center">
-  I'm currently focused on enhancing my TypeScript and Rust development, while continuously improving my database management skills. I love learning new frameworks and methodologies to create more impactful applications!
+  Currently focusing on improving my TypeScript and Rust development, along with further enhancing my experience with APIs and databases like MySQL and PostgreSQL.
 </p>
 
 ---
@@ -43,18 +74,10 @@
 
 ---
 
-<h2 align="center">🚀 More About Me</h2>
+<h2 align="center">🚀 API Experience</h2>
 
 <p align="center">
-  I’m an enthusiastic programmer who thrives on exploring new technologies and solving complex problems. With my current stack, I aim to build innovative and practical solutions that help businesses and users alike.
-</p>
-
-<p align="center">
-  Feel free to check out my repositories, collaborate on projects, or connect with me to chat about anything tech-related!
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding-gif-2" width="400"/>
+  I've worked extensively with APIs, integrating data from various external sources into my web applications. From REST APIs to custom backends, I enjoy creating seamless connections between front-end and back-end systems.
 </p>
 
 ---
@@ -62,7 +85,7 @@
 <h2 align="center">💻 Let's Connect!</h2>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/jesus-imanol">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
 </p>
