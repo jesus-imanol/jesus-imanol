@@ -25,22 +25,6 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
 </p>
 
----
-
-<h2 align="center">📊 Skill Proficiency</h2>
-
-<p align="center">
-  <img src="https://quickchart.io/chart/render/zf-9b2b3bc3-6d9f-42a7-b50d-7fb7b96c570d" alt="skills-chart" width="600"/>
-</p>
-
-<p align="center">
-  - React: 75%<br>
-  - Angular: 70%<br>
-  - JavaScript: 80%<br>
-  - TypeScript: 70%<br>
-  - Rust: 60%<br>
-  - Java: 65%<br>
-</p>
 
 ---
 
