@@ -29,32 +29,18 @@
 
 <h2 align="center">📊 Skill Proficiency</h2>
 
-<table align="center">
-  <tr>
-    <td><strong>React</strong></td>
-    <td><progress value="75" max="100"></progress> 75%</td>
-  </tr>
-  <tr>
-    <td><strong>Angular</strong></td>
-    <td><progress value="70" max="100"></progress> 70%</td>
-  </tr>
-  <tr>
-    <td><strong>JavaScript</strong></td>
-    <td><progress value="80" max="100"></progress> 80%</td>
-  </tr>
-  <tr>
-    <td><strong>TypeScript</strong></td>
-    <td><progress value="70" max="100"></progress> 70%</td>
-  </tr>
-  <tr>
-    <td><strong>Rust</strong></td>
-    <td><progress value="60" max="100"></progress> 60%</td>
-  </tr>
-  <tr>
-    <td><strong>Java</strong></td>
-    <td><progress value="65" max="100"></progress> 65%</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://quickchart.io/chart/render/zf-9b2b3bc3-6d9f-42a7-b50d-7fb7b96c570d" alt="skills-chart" width="600"/>
+</p>
+
+<p align="center">
+  - React: 75%<br>
+  - Angular: 70%<br>
+  - JavaScript: 80%<br>
+  - TypeScript: 70%<br>
+  - Rust: 60%<br>
+  - Java: 65%<br>
+</p>
 
 ---
 
@@ -78,6 +64,15 @@
 
 <p align="center">
   I've worked extensively with APIs, integrating data from various external sources into my web applications. From REST APIs to custom backends, I enjoy creating seamless connections between front-end and back-end systems.
+</p>
+
+---
+
+<h2 align="center">🎨 More Fun!</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding-gif-2" width="400"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="programming-gif" width="400"/>
 </p>
 
 ---
