@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate developer with experience building web applications and working with APIs. I love exploring new technologies and pushing my skills further each day.
+  I'm a passionate developer with experience building web applications and working with APIs. I love exploring new technologies and pushing my skills further each day. Currently, I'm also learning blockchain technology to expand my expertise in decentralized systems.
 </p>
 
 ---
