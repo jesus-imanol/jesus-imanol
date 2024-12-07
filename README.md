@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-imanol&repo=vue_advanced&theme=radical" alt="Vue Advanced Repo"/>
 </a>
 
-<a href="https://github.com/jesus-imanol/blockchain-test">
+<a href="https://github.com/jesus-imanol/Blockchain-complaint.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-imanol&repo=blockchain-test&theme=radical" alt="Blockchain Test Repo"/>
 </a>
 
@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-imanol&repo=soccerjoy&theme=radical" alt="SoccerJoy Repo"/>
 </a>
 
-<a href="https://github.com/jesus-imanol/project-report">
+<a href="https://github.com/jesus-imanol/frontend-el-primo-workshop.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-imanol&repo=project-report&theme=radical" alt="Project Report Repo"/>
 </a>
 
