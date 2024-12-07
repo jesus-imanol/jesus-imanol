@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://github.com/jesus-imanol/Blockchain-complaint.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-imanol&repo=blockchain-test&theme=radical" alt="Blockchain Test Repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-imanol&repo=Blockchain-complaint&theme=radical" alt="Blockchain Test Repo"/>
 </a>
 
 <a href="https://github.com/jesus-imanol/soccerjoy">
@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://github.com/jesus-imanol/frontend-el-primo-workshop.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-imanol&repo=project-report&theme=radical" alt="Project Report Repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-imanol&repo=frontend-el-primo-workshop&theme=radical" alt="Project Report Repo"/>
 </a>
 
 </div>
