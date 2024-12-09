@@ -83,5 +83,4 @@
 
 <h2 align="center">📈 Best</h2>
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fsnake-game-generator-from-github-contributions&psig=AOvVaw22FsDNapMX8DmbiMRG5J9C&ust=1733865069400000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMip9O3Mm4oDFQAAAAAdAAAAABAf" alt="Snake animation" />
 </div>
