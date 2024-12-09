@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jesús Cast</h1>
+![image](https://github.com/user-attachments/assets/c0e0f962-44c0-4244-80e6-7daf45c3ced3)![image](https://github.com/user-attachments/assets/09cee329-367e-4a64-a3ea-187bdddade29)<h1 align="center">Hi there 👋, I'm Jesús Cast</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding-gif" width="400" />
 </p>
@@ -83,5 +83,5 @@
 
 <h2 align="center">📈 Best</h2>
 <div align="center">
-  <img src="https://pin.it/ywd0Gp11J" alt="Snake animation" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fsnake-game-generator-from-github-contributions&psig=AOvVaw22FsDNapMX8DmbiMRG5J9C&ust=1733865069400000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMip9O3Mm4oDFQAAAAAdAAAAABAf" alt="Snake animation" />
 </div>
