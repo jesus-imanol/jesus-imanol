@@ -81,7 +81,7 @@
   <strong>Spanish:</strong> Native speaker
 </p>
 
-<h2 align="center">📈 Stats</h2>
+<h2 align="center">📈 Best</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://pin.it/ywd0Gp11J" alt="Snake animation" />
 </div>
