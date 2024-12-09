@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0e0f962-44c0-4244-80e6-7daf45c3ced3)![image](https://github.com/user-attachments/assets/09cee329-367e-4a64-a3ea-187bdddade29)<h1 align="center">Hi there 👋, I'm Jesús Cast</h1>
+<h1 align="center">Hi there 👋, I'm Jesús Cast</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding-gif" width="400" />
 </p>
