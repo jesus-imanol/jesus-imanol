@@ -3,6 +3,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding-gif" width="400" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Blockchain+Enthusiast+%E2%9B%93;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F;Always+building+cool+things+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
 <h2 align="center">A passionate developer diving into blockchain & advanced architecture</h2>
 
 <!-- Stats Cards with Better Layout -->
@@ -11,9 +16,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-imanol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="languages graph" />
 </div>
 
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesus-imanol&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jesus-imanol&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/jesus-imanol/jesus-imanol/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Pac-Man Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jesus-imanol/jesus-imanol/output/pacman.svg" alt="Pac-Man animation" />
 </div>
 
 <!-- Tech Stack with Improved Icons -->
@@ -95,6 +116,12 @@
   <a href="https://github.com/jesus-imanol/frontend-el-primo-workshop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-imanol&repo=frontend-el-primo-workshop&theme=tokyonight&hide_border=true&border_radius=10" alt="Project Report Repo" />
   </a>
+</div>
+
+<!-- Activity Graph -->
+<h2 align="center">📊 Contribution Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesus-imanol&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </div>
 
 <!-- Languages Section -->
