@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0d1117,100:1f1f2e&height=190&section=header&text=Jes%C3%BAs%20Imanol%20Castillo&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20Software%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="./assets/header.svg" width="100%" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=C9D1D9&center=true&vCenter=true&width=720&lines=Systems+over+snippets.;Designing+boundaries%2C+not+just+features.;Architecture+first.+Code+second.;Understand+first.+Automate+second." alt="Typing SVG" />
@@ -177,4 +177,4 @@ I use AI to move faster inside a design I own and understand. Every line I ship 
   <img src="https://raw.githubusercontent.com/jesus-imanol/jesus-imanol/output/pacman.svg" alt="Pac-Man contribution animation" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f2e,40:0d1117,100:000000&height=120&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="footer" />
