@@ -1,5 +1,4 @@
-
-      <svg
+<svg
         width="854"
         height="190"
         xmlns="http://www.w3.org/2000/svg"
@@ -44,6 +43,5 @@
         </path>
       </g>
          <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Jesús Imanol Castillo</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">Full Stack & Mobile Software Engineer</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">Full Stack &amp; Mobile Software Engineer</text>
       </svg>
-    
